@@ -1,5 +1,16 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css");
+
+
 .App {
   text-align: center;
+}
+
+.down10{
+  padding-top: 10px;
+}
+
+.left{
+  text-align: left;
 }
 
 .App-logo {
@@ -17,6 +28,9 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+#navbar{
+  background-color: rgb(216, 138, 138);
 }
 
 .App-link {
